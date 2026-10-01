@@ -1,0 +1,18 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: diptera_odb10 (Creation date: 2024-01-08, number of genomes: 56, number of BUSCOs: 3285)
+# Summarized benchmarking in BUSCO notation for file /home/cmaldonado/bio2/MartinP/trinity/trinity.Trinity.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:3.8%[S:3.7%,D:0.1%],F:2.0%,M:94.2%,n:3285	   
+	125	Complete BUSCOs (C)			   
+	123	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	66	Fragmented BUSCOs (F)			   
+	3094	Missing BUSCOs (M)			   
+	3285	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	metaeuk: 7.bba0d80
